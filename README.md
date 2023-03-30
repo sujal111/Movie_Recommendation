@@ -6,13 +6,6 @@
 
 ### Project Description: Building Process
 
-> **In this project, we have created a decentralised freelancing community which enables zero knowledge transparency and authentic business between clients and freelancers. Clients and Freelancers collaborate and communicate through push notification and push Chat Dapp. WorldCoins is used for authentication and check if the user is human or not.  IPFS is used for blockchain storage and eventually the platform is deployed on vialist.**
-
----
-
-## 🛠 Technologies used
-:
-
 1) First, you need a dataset of movies and their features. This can include attributes such as genre, cast, director, release year, rating, and plot summary.
 Preprocess the data by cleaning, formatting, and transforming it into a suitable format for machine learning algorithms.
 
